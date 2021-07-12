@@ -20,22 +20,22 @@
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Normal mapping and Displacement mapping</a></h3>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering.</th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Normal mapping and Displacement mapping</a></h3><p>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Whitted-Style Ray tracing</a></h3>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.</th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Whitted-Style Ray tracing</a></h3><p>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">PCF and PCSS for soft shadow</a></h3>Conduct ray tracing with BVH acceleration for simple CornellBox.</th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">PCF and PCSS for soft shadow</a></h3><p>Conduct ray tracing with BVH acceleration for simple CornellBox.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.</th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Precomputed Radiance Transfer</a></h3><p>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">CCF&DIDI time and spatial prediction</a></h3>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors. </th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">CCF&DIDI time and spatial prediction</a></h3><p>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.</p></th>
   </tr>
 </table>
