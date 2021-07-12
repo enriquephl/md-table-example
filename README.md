@@ -2,7 +2,7 @@
 | Figure | Description |
 |---|---|
 | <p align="center">
-<img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="160"></p> |<h3 style="text-align: center">Normal mapping and Displacement mapping</h3>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering. |
+<img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="160px"></p> |<h3 style="text-align: center">Normal mapping and Displacement mapping</h3>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering. |
 | <p align="center">
 <img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="160"></p> |[<h3 style="text-align: center">Whitted-Style Ray tracing</h3>](https://github.com/bohaothu/md-table-example)Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.  |
 | <p align="center">
