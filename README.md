@@ -4,7 +4,7 @@
 | <p align="center">
 <img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p> |<h3 style="text-align: center">Normal mapping and Displacement mapping</h3>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering. |
 | <p align="center">
-<img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p> |[<h3 style="text-align: center">Whitted-Style Ray tracing</h3>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.  |
+<img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p> |<h3 style="text-align: center">Whitted-Style Ray tracing</h3>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.  |
 | <p align="center">
 <img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p> |<h3 style="text-align: center">PCF and PCSS for soft shadow</h3>Conduct ray tracing with BVH acceleration for simple CornellBox |
 | <p align="center">
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Normal mapping and Displacement mapping</a></h3><p>Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering.</p></th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Normal mapping and Displacement mapping</a></h3><p align="left">Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
