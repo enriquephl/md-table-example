@@ -24,18 +24,18 @@
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Whitted-Style Ray tracing</a></h3><p>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.</p></th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Whitted-Style Ray tracing</a></h3><p align="left">Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">PCF and PCSS for soft shadow</a></h3><p>Conduct ray tracing with BVH acceleration for simple CornellBox.</p></th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">PCF and PCSS for soft shadow</a></h3><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Precomputed Radiance Transfer</a></h3><p>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.</p></th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">Precomputed Radiance Transfer</a></h3><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.</p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
-    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">CCF&DIDI time and spatial prediction</a></h3><p>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.</p></th>
+    <th><h3 style="text-align: center"><a href="https://github.com/bohaothu/md-table-example">CCF&DIDI time and spatial prediction</a></h3><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.</p></th>
   </tr>
 </table>
