@@ -12,7 +12,7 @@
 | <p align="center">
 <img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p> |<h3 style="text-align: center">CCF&DIDI time and spatial prediction</h3>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors. |
 
-## HTML 表格
+## HTML Table
 <table style="width:100%; border: none;">
   <tr>
     <th>Figure</th>
